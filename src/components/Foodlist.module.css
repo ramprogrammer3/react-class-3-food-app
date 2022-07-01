@@ -1,0 +1,30 @@
+
+#h2{
+    font-size: 30px;
+    color: black;
+    font-weight: 400;
+    margin-left: 40px;
+    text-transform: capitalize;
+}
+#ul{
+    list-style-type: none; 
+}
+#ul li{
+    padding-bottom: 5px;
+}
+#ul a{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.imageContainer{
+    width: 50%;
+    margin: 20px auto;
+    box-shadow: 1px 1px 4px grey;
+    text-align: center;
+    padding: 20px;
+}
+.imageContainer img{
+    width: 95%;
+}
